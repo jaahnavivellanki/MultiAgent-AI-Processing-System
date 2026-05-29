@@ -185,3 +185,7 @@ For support, please open an issue in the GitHub repository or contact the mainta
 - OpenAI for providing the AI capabilities
 - FastAPI for the excellent web framework
 - React team for the frontend framework
+=======
+# MultiAgent-AI-Processing-System
+Scalable multi-agent AI orchestration platform for intelligent document analysis, automated content classification, risk assessment, and contextual data processing across PDF, JSON, and Email workflows.
+>>>>>>> 3073c98516c1373bdc722b6073206cf9e46323d8
