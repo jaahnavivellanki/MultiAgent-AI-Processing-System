@@ -151,12 +151,10 @@ Supports:
 
 ### Clone Repository
 
-```bash id="f6p2xa"
+```bash
 git clone https://github.com/jaahnavivellanki/MultiAgent-AI-Processing-System.git
 cd MultiAgent-AI-Processing-System
 ```
-
----
 
 ## Backend Setup
 
