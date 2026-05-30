@@ -152,7 +152,7 @@ Supports:
 ### Clone Repository
 
 ```bash id="f6p2xa"
-git clone https://github.com/your-username/MultiAgent-AI-Processing-System.git
+git clone https://github.com/jaahnavivellanki/MultiAgent-AI-Processing-System.git
 cd MultiAgent-AI-Processing-System
 ```
 
